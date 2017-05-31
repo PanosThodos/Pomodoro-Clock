@@ -1,0 +1,27 @@
+body {
+  background:url("https://i2.wp.com/daintyjewellsblog.com/wp-content/uploads/2017/02/5-Reasons-to-Trust-Gods-Timing.jpg?fit=1080%2C720");
+  background-size:100%;
+  background-position-y:100%;
+  background-attachment:fixed;
+  background-opacity:0.1;
+  color:white;
+  text-shadow: 1px 1px black;
+}
+span a{
+  color:darkgreen;
+}
+h2 {
+  display:inline;
+}
+
+.timeDiv{
+  margin:5%;
+}
+a{
+  margin:1%;
+}
+
+.btn{
+  border-radius:50%!important;
+  font-size:22px;
+}
